@@ -763,7 +763,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-2.2.1.tgz
     version: 2.2.1
-  - appVersion: 1.1.0
+  - apiVersion: v1
+    appVersion: 1.1.0
     created: "2019-05-14T21:26:35.720278783Z"
     description: Distributed computation in Python with task scheduling
     digest: 6968838c547a3757122b71f70af1e1dbedbc4e919e427b46585d624c3f8e77f5
@@ -780,7 +781,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-2.2.0.tgz
     version: 2.2.0
-  - appVersion: 1.1.0
+  - apiVersion: v1
+    appVersion: 1.1.0
     created: "2019-04-03T09:26:11.54267141Z"
     description: Distributed computation in Python with task scheduling
     digest: 02ddb1fec1fec8db13941791dbb39761d213df7ef7c6b84cfa4d13250ad41ac3
@@ -797,7 +799,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-2.1.0.tgz
     version: 2.1.0
-  - appVersion: 1.0.0
+  - apiVersion: v1
+    appVersion: 1.0.0
     created: "2019-01-28T16:55:42.240413387Z"
     description: Distributed computation in Python with task scheduling
     digest: b6be2a4cb7d68cf403b316a71f38ab4e648a2e6b2658569e958b06ed0308ad01
@@ -814,7 +817,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-2.0.1.tgz
     version: 2.0.1
-  - appVersion: 1.0.0
+  - apiVersion: v1
+    appVersion: 1.0.0
     created: "2018-12-13T18:25:25.84229597Z"
     description: Distributed computation in Python with task scheduling
     digest: 989b5534482bf6864de85a00908e1f60dbee71bc5b97c65ae3f2f7d3cd436004
@@ -831,7 +835,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-2.0.0.tgz
     version: 2.0.0
-  - appVersion: 0.18.1
+  - apiVersion: v1
+    appVersion: 0.18.1
     created: "2018-12-12T13:55:22.848232019Z"
     description: Distributed computation in Python with task scheduling
     digest: f996019dc7b122ad9a4898608fd22b3c989b70b756d5bfae624b655f42fb9e59
@@ -848,7 +853,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-1.1.0.tgz
     version: 1.1.0
-  - appVersion: 0.17.4
+  - apiVersion: v1
+    appVersion: 0.17.4
     created: "2018-08-07T15:55:58.143922792Z"
     description: Distributed computation in Python with task scheduling
     digest: 27792dd49d9648781b619293002772ec7f0778902cd1d87f7687634c3ee9229b
@@ -865,7 +871,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-1.0.4.tgz
     version: 1.0.4
-  - appVersion: 0.17.1
+  - apiVersion: v1
+    appVersion: 0.17.1
     created: "2018-05-07T14:56:14.965267855Z"
     description: Distributed computation in Python with task scheduling
     digest: ca8bf0a3f8a4c7f283d28d5f47642841ebe2eaa8a38b69c0d4a662bf21126753
@@ -882,7 +889,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-1.0.3.tgz
     version: 1.0.3
-  - appVersion: 0.17.1
+  - apiVersion: v1
+    appVersion: 0.17.1
     created: "2018-04-18T19:41:40.6405552Z"
     description: Distributed computation in Python with task scheduling
     digest: b4b2750deadf53734da310a02f3050b0f789bd22e794f242fb50c9608b2955f9
@@ -899,7 +907,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-1.0.2.tgz
     version: 1.0.2
-  - appVersion: 0.17.1
+  - apiVersion: v1
+    appVersion: 0.17.1
     created: "2018-04-11T09:26:22.050019412Z"
     description: Distributed computation in Python with task scheduling
     digest: d6d67cad6f6abc29fa82ad8869c3496e2a644e12ede465151661cd37db32b2c4
@@ -916,7 +925,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-1.0.1.tgz
     version: 1.0.1
-  - appVersion: 0.17.1
+  - apiVersion: v1
+    appVersion: 0.17.1
     created: "2018-03-10T08:59:41.526766893-05:00"
     description: Distributed computation in Python with task scheduling
     digest: ebee155cfd898cf6e7aba971891a469674253f1607a7b17a17288a15fb2b16df
@@ -933,7 +943,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-1.0.0.tgz
     version: 1.0.0
-  - created: "2018-03-10T08:59:41.52639159-05:00"
+  - apiVersion: v1
+    created: "2018-03-10T08:59:41.52639159-05:00"
     description: Distributed computation in Python
     digest: 17a205ea097fcbbc2b1ba69debac5e9292cb3d2d0bb1db3969858dffa3a031ba
     home: https://dask.pydata.org
@@ -949,7 +960,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-0.17.1.tgz
     version: 0.17.1
-  - created: "2018-03-10T08:59:41.52607072-05:00"
+  - apiVersion: v1
+    created: "2018-03-10T08:59:41.52607072-05:00"
     description: Distributed computation in Python
     digest: 2a6fe6dea37ab4bfc30480d5e432aa41a45952bc862c2f01a35400c95f48cee8
     home: https://dask.pydata.org
@@ -965,7 +977,8 @@ entries:
     urls:
     - https://helm.dask.org/dask-0.17.0.tgz
     version: 0.17.0
-  - created: "2018-03-10T08:59:41.525771171-05:00"
+  - apiVersion: v1
+    created: "2018-03-10T08:59:41.525771171-05:00"
     description: Distributed computation in Python
     digest: 9f18db9c890e327e90b2bac3f53f24b6a98a3f3bcc08e72df074a0a0495fa6a6
     home: https://github.com/dask/dask
@@ -982,6 +995,37 @@ entries:
     - https://helm.dask.org/dask-0.1.0.tgz
     version: 0.1.0
   daskhub:
+  - apiVersion: v2
+    appVersion: 2021.1.0
+    created: "2021-02-28T08:06:28.911984Z"
+    dependencies:
+    - import-values:
+      - child: rbac
+        parent: rbac
+      name: jupyterhub
+      repository: https://jupyterhub.github.io/helm-chart/
+      version: 0.11.1
+    - name: dask-gateway
+      repository: https://dask.org/dask-gateway-helm-repo/
+      version: 0.9.0
+    description: Multi-user JupyterHub and Dask deployment.
+    digest: 8e553d9ffe2f3f1ccb52d9237215e0f9e2b5bfad33df67d69a0f2567d72ce5cd
+    icon: https://avatars3.githubusercontent.com/u/17131925?v=3&s=200
+    maintainers:
+    - email: jtomlinson@nvidia.com
+      name: Jacob Tomlinson (Nvidia)
+    - email: jhamman@ucar.edu
+      name: Joe Hamman (NCAR)
+    - email: guillaume.eynard-bontemps@cnes.fr
+      name: Guillaume Eynard-Bontemps (CNES)
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - email: tom.w.augspurger@gmail.com
+      name: Tom Augspurger
+    name: daskhub
+    urls:
+    - https://vishthemenon.github.io/helm-chart/daskhub-4.5.8.tgz
+    version: 4.5.8
   - apiVersion: v2
     appVersion: 2021.1.0
     created: "2021-01-19T20:27:29.534928441+01:00"
@@ -1322,4 +1366,4 @@ entries:
     urls:
     - https://helm.dask.org/daskhub-4.4.1.tgz
     version: 4.4.1
-generated: "2021-01-19T20:27:29.529888623+01:00"
+generated: "2021-02-28T08:06:28.907358Z"
